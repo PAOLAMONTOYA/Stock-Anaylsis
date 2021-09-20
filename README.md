@@ -22,5 +22,5 @@ It runs as quick as 0.08 seconds now. Final conlusion, 2018 was not a good year 
 
 
 #### Summary 
-An davantage to refactoring data is that its cleaner to look for errors when you need to debug. There is less of a mess to look. A disadvantage ro refactoring code is that once you change a code, not many will undersand what they're looking at or reading for because there is a possibility if more "magic numbers" occuring. 
+An advantage to refactoring data is that its cleaner to look for errors when you need to debug. There is less of a mess to look. A disadvantage of refactoring code is that once you change a code, not many will undersand what they're looking at or reading for because there is a possibility if more "magic numbers" occuring. 
 
